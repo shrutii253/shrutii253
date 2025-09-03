@@ -37,12 +37,6 @@ I like to think of tech, music, and books as three different languages I use to 
 - 🏠 **Unilodge – Hostel Service Management System**  
   Role-based web application to digitalize hostel operations and automate workflows.  
 
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-shruti-pandey-b77547253/)  
-- 📧 saishrutipandey@gmail.com  
-
 <!--
 **shrutii253/shrutii253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
