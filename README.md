@@ -30,12 +30,7 @@ I like to think of tech, music, and books as three different languages I use to 
 
 - 🤖 **ZeroDayBot – CVE Intelligence Chatbot**  
   Fetches CVE details using NVD API + LLMs, provides severity classification, and mitigation Q&A for security researchers.  
-
-- 🌾 **Kheti Buddy – AI-Powered Crop Recommendation**  
-  AI system (Random Forest + ANN) for precision agriculture, improving yield by 18% and reducing waste by 25%.  
-
-- 🏠 **Unilodge – Hostel Service Management System**  
-  Role-based web application to digitalize hostel operations and automate workflows.  
+  
 
 <!--
 **shrutii253/shrutii253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
