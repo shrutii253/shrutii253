@@ -18,9 +18,9 @@ I like to think of tech, music, and books as three different languages I use to 
 ## 🛠️ Tech Stack
 - **Languages:** Java, C, C++, Python, JavaScript (ES6+)  
 - **Frameworks/Stacks:** React.js, Next.js, Node.js, Express.js, REST APIs, Tailwind CSS  
-- **Databases:** Supabase (Postgres), MySQL, MongoDB, Cassandra  
+- **Databases:** MySQL, MongoDB, Cassandra  
 - **AI/ML:** scikit-learn, pandas, OpenCV  
-- **Platforms & Tools:** Linux, Git, GitHub, Google Cloud, Amazon Q (GenAI Developer Tool)  
+- **Platforms & Tools:** Linux, Git, GitHub, Google Cloud  
 
 ---
 
