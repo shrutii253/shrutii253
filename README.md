@@ -32,6 +32,7 @@ I like to think of tech, music, and books as three different languages I use to 
   Fetches CVE details using NVD API + LLMs, provides severity classification, and mitigation Q&A for security researchers.
 
 - 🛠 **Autodock – Dev Environment CLI**
+
   A CLI tool that automatically sets up development environments for Python, Java, and Node.js projects, detects missing or outdated dependencies,     resolves version conflicts, and generates Dockerfiles and docker-compose configurations for seamless project onboarding.
   
 
